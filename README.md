@@ -1,6 +1,7 @@
 # 👋 Sergio Cezar
 
 I am a Computer Science undergraduate at State University of Maringa who enjoys building software and understanding how things work behind the scenes.
+
 I like writing clean, well-organized code and continuously learning more about software and web development.
 
 ---
