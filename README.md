@@ -32,6 +32,9 @@ I like writing clean, well-organized code and continuously learning more about s
 
 - 🔹 **[Monster-Survival Game](https://github.com/SergioCezar/monster-survival-game)**  
   A 2D survival game developed using WASM-4 with Go.
+
+- 🔹 **[Person Registration API](https://github.com/SergioCezar/CadastroPessoas)**  
+  A Spring Boot application for managing person records using a layered architecture, REST API, and a Thymeleaf-based web interface.
   
 ---
 
